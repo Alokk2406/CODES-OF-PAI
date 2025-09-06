@@ -7,8 +7,8 @@ section .text
 	_start:
 	
 	
-	mov al , 10
-	mov bl , 8
+	mov al , 8
+	mov bl , 2
 	sub al , bl 
 	
 	aam 
